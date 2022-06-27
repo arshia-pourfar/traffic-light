@@ -1,1 +1,6 @@
 # traffic-light
+
+//////////////////////////////////////////////////////////////////////
+
+This is my second program
+This program lasted from 10/10/2021 to 10/28/2021
