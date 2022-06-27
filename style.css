@@ -1,0 +1,330 @@
+    .color {
+        background-color: rgb(1, 182, 1);
+        height: 70px;
+        width: 70px;
+        border-radius: 50%;
+        margin-left: 17cm;
+        margin-bottom: 2cm;
+        position: absolute;
+    }
+    
+    .color2 {
+        background-color: #01b601;
+        height: 70px;
+        width: 70px;
+        border-radius: 50%;
+        margin-left: 25.7cm;
+        margin-top: 0.5cm;
+        position: absolute;
+    }
+    
+    .color3 {
+        background-color: #ff0000;
+        height: 70px;
+        width: 70px;
+        border-radius: 50%;
+        margin-left: 0.5cm;
+    }
+    
+    #color3 {
+        display: none;
+    }
+    
+    #yellow_color3 {
+        display: none;
+    }
+    
+    .color4 {
+        background-color: red;
+        height: 70px;
+        width: 70px;
+        border-radius: 50%;
+        margin-left: 3.5cm;
+        margin-bottom: 6cm;
+        margin-top: 2.7cm;
+        position: absolute;
+    }
+    
+    .input {
+        height: 8cm;
+        width: 15cm;
+        background-color: green;
+        margin-left: 4cm;
+    }
+    
+    .input2 {
+        height: 8cm;
+        width: 15cm;
+        background-color: green;
+        margin-left: 4cm;
+    }
+    
+    .input3 {
+        height: 8cm;
+        width: 15cm;
+        background-color: green;
+        margin-left: 4cm;
+        margin-top: 2.5cm;
+    }
+    
+    .input4 {
+        height: 8cm;
+        width: 15cm;
+        background-color: green;
+        margin-left: 6.5cm;
+        /* margin-top: 0.5cm; */
+    }
+    
+    #rotate {
+        transform: rotate(90deg);
+        background-color: black;
+        width: 26cm;
+        height: 0.02cm;
+    }
+    
+    #hr {
+        background-color: rgb(116, 116, 116);
+        margin-top: 2.5cm;
+        height: 0.08cm;
+    }
+    
+    .span {
+        position: absolute;
+        font-size: x-large;
+        margin-top: 6.7cm;
+        margin-left: 1.1cm;
+    }
+    
+    .span2 {
+        font-size: x-large;
+        transform: rotate(-90deg);
+        height: 2cm;
+        margin-top: 8.6cm;
+        right: 16.9cm;
+        position: absolute;
+    }
+    
+    .span3 {
+        font-size: x-large;
+        margin-left: 17.6cm;
+        margin-top: 0.6cm;
+        position: absolute;
+    }
+    
+    .span4 {
+        font-size: x-large;
+        margin-top: 3.3cm;
+        margin-left: 4.1cm;
+        position: absolute;
+    }
+    
+    .btn_start {
+        position: absolute;
+        height: 1cm;
+        width: 2.5cm;
+        margin-top: 5cm;
+    }
+    
+    .car2 {
+        position: absolute;
+        transform: rotate(90deg);
+        height: 2cm;
+        margin-top: 2cm;
+        margin-left: 15.3cm;
+    }
+    
+    .btn_puse {
+        position: absolute;
+        height: 1cm;
+        width: 2.5cm;
+        margin-top: 5cm;
+        display: none;
+    }
+    
+    .btn_reset {
+        position: absolute;
+        height: 1cm;
+        width: 2.5cm;
+        margin-top: 4cm;
+    }
+    
+    #container {
+        position: relative;
+    }
+    
+    .car {
+        transform: rotate(180deg);
+        position: absolute;
+        height: 2cm;
+        margin-top: 4cm;
+        margin-left: 0.9cm;
+    }
+    
+    .car11 {
+        transform: rotate(180deg);
+        position: absolute;
+        height: 2cm;
+        margin-top: 1.5cm;
+        margin-left: 0.9cm;
+    }
+    
+    .car12 {
+        visibility: hidden;
+        transform: rotate(180deg);
+        position: absolute;
+        height: 2cm;
+        margin-top: 1.5cm;
+        margin-left: 0.9cm;
+    }
+    
+    .car2 {
+        position: absolute;
+        transform: rotate(-90deg);
+        height: 2cm;
+        margin-top: 8.5cm;
+        right: 15cm;
+    }
+    
+    .car21 {
+        position: absolute;
+        transform: rotate(-90deg);
+        height: 2cm;
+        margin-top: 8.5cm;
+        right: 12.5cm;
+    }
+    
+    .car22 {
+        position: absolute;
+        transform: rotate(-90deg);
+        height: 2cm;
+        margin-top: 8.5cm;
+        right: 10cm;
+    }
+    
+    .car23 {
+        position: absolute;
+        transform: rotate(-90deg);
+        height: 2cm;
+        margin-top: 8.5cm;
+        right: 7.5cm;
+    }
+    
+    .car24 {
+        position: absolute;
+        transform: rotate(-90deg);
+        height: 2cm;
+        margin-top: 8.5cm;
+        right: 5cm;
+    }
+    
+    .car3 {
+        position: absolute;
+        transform: rotate(90deg);
+        height: 2cm;
+        margin-left: 15.3cm;
+    }
+    
+    .car31 {
+        position: absolute;
+        transform: rotate(90deg);
+        height: 2cm;
+        margin-left: 12.8cm;
+    }
+    
+    .car32 {
+        position: absolute;
+        transform: rotate(90deg);
+        height: 2cm;
+        margin-left: 10.2cm;
+    }
+    
+    .car33 {
+        position: absolute;
+        transform: rotate(90deg);
+        height: 2cm;
+        margin-left: 7.7cm;
+    }
+    
+    .car34 {
+        position: absolute;
+        transform: rotate(90deg);
+        height: 2cm;
+        margin-left: 5.1cm;
+    }
+    
+    .car4 {
+        position: absolute;
+        height: 2cm;
+        margin-top: 5cm;
+        margin-left: 3.9cm;
+        bottom: 2.7cm;
+    }
+    
+    .car41 {
+        position: absolute;
+        height: 2cm;
+        margin-top: 7.5cm;
+        margin-left: 3.9cm;
+        bottom: 0.2cm;
+    }
+    
+    .car42 {
+        visibility: hidden;
+        position: absolute;
+        height: 2cm;
+        margin-top: 7cm;
+        margin-left: 3.9cm;
+        bottom: 0cm;
+    }
+
+    .number_car1{
+        position: absolute;
+        font-size: x-large;
+        margin-left: -6cm;
+        margin-top: 4cm;
+    }
+
+    .number_car2{
+        position: absolute;
+        font-size: x-large;
+        margin-top: 6.8cm;
+        margin-left: -10cm;
+        
+    }
+    .number_car3{
+        position: absolute;
+        font-size: x-large;
+        margin-top: 3cm;
+        margin-left: 8cm;
+    }
+
+    .number_car4{
+        position: absolute;
+        font-size: x-large;
+        margin-top: 6cm;
+        margin-left: 7cm;
+    }
+    .num_car_red{
+        position: absolute;
+        font-size: x-large;
+        margin-left: -1.3cm;
+        margin-top: 4cm;
+    }
+    .num_car_red2{
+        position: absolute;
+        font-size: x-large;
+        margin-top: 6cm;
+        margin-left: 11.7cm;
+    }
+    .num_car_green{
+        position: absolute;
+        font-size: x-large;
+        margin-left: -5.3cm;
+        margin-top: 6.8cm;
+    }
+    .num_car_green2{
+        position: absolute;
+        font-size: x-large;
+        margin-top: 3cm;
+        margin-left: 12.7cm;
+    }
